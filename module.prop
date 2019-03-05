@@ -1,0 +1,7 @@
+id=comfortaa-font
+name=Comfortaa Font
+version=1.0
+versionCode=1
+author=ClockGen
+description=A systemless font replacement
+minMagisk=17000
